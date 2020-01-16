@@ -2,6 +2,10 @@
 
 Pretrained models for the ANN-based post-correction component.
 
+## Installation
+
+To checkout the models, [`Git LFS` must be installed](https://github.com/git-lfs/git-lfs/releases).
+
 ## Models
 
 ### OCR post-correction
